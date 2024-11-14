@@ -1,0 +1,11 @@
+Spring                                   Quarkus
+----------------------------------------------------------------
+1 @Autowired                             @Inject
+2 @Value                                 @ConfigProperty
+3 @RequestMapping                        @Path
+4 @SpringBootApplication                 @QuarkusMain (Optional)
+5 @Component
+6 @Service
+7 @Repository
+8 @PathVariable                          @PathParam
+9 @ControllerAdvice                      @Provider

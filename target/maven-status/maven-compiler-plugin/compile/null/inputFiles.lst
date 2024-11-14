@@ -1,0 +1,16 @@
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/ExampleResource.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/controller/ProfessorController.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/controller/StudentController.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/controller/UserController.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/enums/AcademicLevel.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/enums/AcademicRank.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/enums/Branch.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/model/Professor.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/model/Student.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/model/User.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/repository/ProfessorDao.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/repository/StudentDao.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/repository/UserDao.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/service/ProfessorService.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/service/StudentService.java
+/Users/shahin/Desktop/spring_project/first-project/src/main/java/org/example/service/UserService.java
